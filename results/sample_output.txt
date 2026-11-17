@@ -1,0 +1,29 @@
+
+========== MINI-COURIER PLANNER ==========
+
+1) Parcel prioritization (Merge Sort)
+P03: Medicine, deadline=1, priority=5
+P05: Documents, deadline=1, priority=4
+P02: Books, deadline=1, priority=3
+P01: Laptop, deadline=2, priority=5
+P07: Headphones, deadline=2, priority=3
+P04: Clothes, deadline=3, priority=2
+P06: Kitchen item, deadline=4, priority=2
+P08: Shoes, deadline=5, priority=2
+
+2) Packing plan (0/1 Knapsack), capacity=15 kg
+Selected parcels: P03, P05, P01, P07, P08
+Total weight=14 kg; total value=395
+
+3) Shortest paths (Dijkstra) from Depot
+Depot: distance=0, path=Depot
+A: distance=3, path=Depot -> B -> A
+B: distance=2, path=Depot -> B
+C: distance=4, path=Depot -> B -> C
+D: distance=6, path=Depot -> B -> C -> D
+
+4) Approximate delivery tour (Nearest Neighbor TSP)
+Route: Depot -> B -> A -> C -> D
+Total tour distance: 8 km
+
+Project completed successfully.

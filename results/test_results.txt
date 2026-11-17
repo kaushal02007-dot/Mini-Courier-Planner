@@ -1,0 +1,9 @@
+test_dijkstra (test_main.CourierTests.test_dijkstra) ... ok
+test_knapsack_capacity (test_main.CourierTests.test_knapsack_capacity) ... ok
+test_sort_order (test_main.CourierTests.test_sort_order) ... ok
+test_tour (test_main.CourierTests.test_tour) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

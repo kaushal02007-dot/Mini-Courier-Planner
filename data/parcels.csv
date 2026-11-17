@@ -1,0 +1,9 @@
+id,name,weight,value,priority,deadline
+P01,Laptop,5,90,5,2
+P02,Books,3,40,3,1
+P03,Medicine,2,100,5,1
+P04,Clothes,4,50,2,3
+P05,Documents,1,80,4,1
+P06,Kitchen item,6,60,2,4
+P07,Headphones,2,70,3,2
+P08,Shoes,4,55,2,5
